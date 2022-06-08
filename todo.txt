@@ -1,0 +1,40 @@
+Demo presentation over zoom will probabily be on the week of 04/18 - 04/22
+
+To - Do: 
+
+1. Project Completion 
+2. Draft Design (ER Diagram, Relational Schemas, etc.) 
+3. Project Report 
+4. Demo Presenation Powerpoint 
+5. Peer Reviews
+6. Demo Presenation to GTA over Zoom 
+
+Plan: 
+
+03/29 Meeting: 
+    1. HTML & Css pages must be completed for all pages in our project
+    2. We will discuss some PHP and phpMyAdmin 
+    3. We must agree on a CSS styles and format to be completed by the 04/05 Meeting 
+
+04/05 Meeting: 
+    1. PHP must be completed for each person & it must interact (meaning that the project is near completion and WORKS)
+        I. Alfred: Login & Account Security & Super Admin Pages 
+       II. Brandon: Admin Pages 
+      III. Zac: Student Pages
+       IV. Our project must be error-free from our viewpoints (Alfred, Brandon, Zac) 
+    2. HTML & CSS must be completed & finished for all pages 
+    3. We will host the web application during this meeting 
+    4. We will discuss how we will send the link to our web application to friends & family for user testing 
+        I. Make sure they send you critical feedback (only if they found bugs or errors)
+
+04/12 Meeting: 
+    1. We will discuss the Draft Design, Project Report, Project Powerpoint, and Peer Review
+
+I am not sure when we will present the Demo to the GTA over zoom, so we must meet sometime again in the week of 04/12
+
+Maybe 04/14 or 04/15 Meeting: 
+    1. Our Draft Design, Project Report, Project Powerpoint, and Peer Review must be completed by this meeting 
+    2. Maybe practice our Demo presentation during this meeting 
+
+Week of 04/18 - 04/22: 
+    1. Demo presentation to GTA over Zoom 

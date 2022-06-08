@@ -1,0 +1,9 @@
+echo "
+            <div class = 'user'>
+                $_SESSION[username_email] 
+            </div>
+            <div class = 'user_logout'>
+                <a href = 'logout.php'>LOGOUT</a>
+            </div>
+        ";
+

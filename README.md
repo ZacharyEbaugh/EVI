@@ -1,2 +1,1 @@
 # EVI
-Event Calendar
