@@ -1,0 +1,51 @@
+[05-Apr-2022 17:04:28 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home2/brandsg3/public_html/evi/student_pages/RSO_Student/request_RSO_student.php:71
+Stack trace:
+#0 {main}
+  thrown in /home2/brandsg3/public_html/evi/student_pages/RSO_Student/request_RSO_student.php on line 71
+[05-Apr-2022 17:08:25 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home2/brandsg3/public_html/evi/student_pages/RSO_Student/request_RSO_student.php:71
+Stack trace:
+#0 {main}
+  thrown in /home2/brandsg3/public_html/evi/student_pages/RSO_Student/request_RSO_student.php on line 71
+[05-Apr-2022 17:24:47 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home2/brandsg3/public_html/evi/student_pages/RSO_Student/request_RSO_student.php:71
+Stack trace:
+#0 {main}
+  thrown in /home2/brandsg3/public_html/evi/student_pages/RSO_Student/request_RSO_student.php on line 71
+[05-Apr-2022 17:25:35 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home2/brandsg3/public_html/evi/student_pages/RSO_Student/request_RSO_student.php:71
+Stack trace:
+#0 {main}
+  thrown in /home2/brandsg3/public_html/evi/student_pages/RSO_Student/request_RSO_student.php on line 71
+[05-Apr-2022 17:25:45 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home2/brandsg3/public_html/evi/student_pages/RSO_Student/request_RSO_student.php:71
+Stack trace:
+#0 {main}
+  thrown in /home2/brandsg3/public_html/evi/student_pages/RSO_Student/request_RSO_student.php on line 71
+[05-Apr-2022 17:31:18 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home2/brandsg3/public_html/evi/student_pages/RSO_Student/request_RSO_student.php:70
+Stack trace:
+#0 {main}
+  thrown in /home2/brandsg3/public_html/evi/student_pages/RSO_Student/request_RSO_student.php on line 70
+[05-Apr-2022 17:37:28 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home2/brandsg3/public_html/evi/student_pages/RSO_Student/request_RSO_student.php:70
+Stack trace:
+#0 {main}
+  thrown in /home2/brandsg3/public_html/evi/student_pages/RSO_Student/request_RSO_student.php on line 70
+[05-Apr-2022 17:38:22 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home2/brandsg3/public_html/evi/student_pages/RSO_Student/request_RSO_student.php:70
+Stack trace:
+#0 {main}
+  thrown in /home2/brandsg3/public_html/evi/student_pages/RSO_Student/request_RSO_student.php on line 70
+[08-Apr-2022 10:16:22 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home2/brandsg3/public_html/evi/student_pages/RSO_Student/request_RSO_student.php:70
+Stack trace:
+#0 {main}
+  thrown in /home2/brandsg3/public_html/evi/student_pages/RSO_Student/request_RSO_student.php on line 70
+[08-Apr-2022 11:33:04 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home2/brandsg3/public_html/evi/student_pages/RSO_Student/request_RSO_student.php:70
+Stack trace:
+#0 {main}
+  thrown in /home2/brandsg3/public_html/evi/student_pages/RSO_Student/request_RSO_student.php on line 70
+[08-Apr-2022 11:54:02 America/Boise] PHP Parse error:  Unmatched '}' in /home2/brandsg3/public_html/evi/student_pages/RSO_Student/request_RSO_student.php on line 141
+[08-Apr-2022 12:09:21 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home2/brandsg3/public_html/evi/student_pages/RSO_Student/request_RSO_student.php on line 118
+[08-Apr-2022 12:10:57 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home2/brandsg3/public_html/evi/student_pages/RSO_Student/request_RSO_student.php on line 118
+[08-Apr-2022 12:18:49 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home2/brandsg3/public_html/evi/student_pages/RSO_Student/request_RSO_student.php on line 117
+[08-Apr-2022 12:23:53 America/Boise] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home2/brandsg3/public_html/evi/student_pages/RSO_Student/request_RSO_student.php on line 106
+[08-Apr-2022 12:25:51 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home2/brandsg3/public_html/evi/student_pages/RSO_Student/request_RSO_student.php on line 117
+[08-Apr-2022 12:25:51 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home2/brandsg3/public_html/evi/student_pages/RSO_Student/request_RSO_student.php on line 118
+[08-Apr-2022 18:02:55 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home2/brandsg3/public_html/evi/student_pages/RSO_Student/request_RSO_student.php on line 117
+[08-Apr-2022 18:02:55 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home2/brandsg3/public_html/evi/student_pages/RSO_Student/request_RSO_student.php on line 118
+[08-Apr-2022 18:04:07 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home2/brandsg3/public_html/evi/student_pages/RSO_Student/request_RSO_student.php on line 117
+[08-Apr-2022 18:04:07 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home2/brandsg3/public_html/evi/student_pages/RSO_Student/request_RSO_student.php on line 118
